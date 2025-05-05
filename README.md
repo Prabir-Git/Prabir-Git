@@ -28,7 +28,7 @@
 | Project | Tech | Description |
 |--------|------|-------------|
 | [HRMS-JDBC](https://github.com/Prabir-Git/HRMS-JDBC) | Java, JDBC, HTML, CSS, JS | A complete HR Management System to handle employees 
-| Banking-ATM-System(Desktop Application) | Java Swing, JDBC, MySQL | Handles ATM & Bank transactions in offline mode |
+| [Banking-ATM-System](https://github.com/Prabir-Git/Banking-ATM-System) | Java Swing, JDBC, MySQL | Handles ATM & Bank transactions in offline mode |
 
 ---
 
