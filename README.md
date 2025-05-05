@@ -33,7 +33,7 @@
 ### 🔥 What I'm up to:
 - 🌱 Deep diving into `Spring Boot`, `Backend Developmen`, and `System Design`
 - 🛠 Building real-world clones to showcase practical skills
-- 🎯 Preparing for full-time backend developer opportunities
+- 🎯 Preparing for full-time backend as well as frontend developer opportunities
 
 ---
 
