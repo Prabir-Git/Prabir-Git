@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Prabir-Git/Prabir-Git/blob/main/linkdnbc.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Prabir-Git/Prabir-Git/main/gitBanner.gif" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Prabir</h1>
