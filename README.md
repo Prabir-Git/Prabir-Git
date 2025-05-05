@@ -2,7 +2,7 @@
   <img src="https://github.com/Prabir-Git/Prabir-Git/blob/main/linkdnbc.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Prabir Rout</h1>
+<h1 align="center">Hi there 👋, I'm Prabir</h1>
 
 <p align="center">
   🚀 Passionate Java Backend & Full Stack Developer <br>
